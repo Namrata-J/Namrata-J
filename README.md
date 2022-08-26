@@ -29,5 +29,5 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/namrata-jain-2b6203216/"><img src="https://user-images.githubusercontent.com/82696858/186739785-1c606d25-becf-455f-9817-1347b2a4914a.png" width="30"></a>
-<a href="https://www.linkedin.com/in/namrata-jain-2b6203216/"><img src="https://user-images.githubusercontent.com/82696858/186740389-554e8969-c9c3-4add-86fc-d15f903a6802.png" width="30"></a>
+<a href="https://twitter.com/muse_the_coder"><img src="https://user-images.githubusercontent.com/82696858/186740389-554e8969-c9c3-4add-86fc-d15f903a6802.png" width="30"></a>
 
