@@ -2,9 +2,11 @@
 
 <hr>
 
-📌 A passionate learner currently learning web deveploment.<br>
+📌 A passionate learner documenting her journey in the form of blogs.<br>
 
-📌 Besides, i write blogs based on my learnings.
+📌 My proof of work are my projects and repositories.
+
+📌 I commit to my work and workplace more than i commit on git.
 
 ### Tech Stack
 <hr>
